@@ -17,6 +17,8 @@ dist-ssr
 *.key
 *.pem
 .wrangler/
+wrangler.jsonc
+wrangler.toml
 
 # Editor directories and files
 .vscode/*
