@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- High contrast dark base with subtle rounded frame -->
+  <rect width="100" height="100" rx="18" fill="#000000" />
+  
+  <!-- Outer Grid G blocks in crisp white -->
+  <!-- Row 0: Top Bar -->
+  <rect x="10" y="10" width="17" height="17" rx="2.5" fill="#ffffff" />
+  <rect x="31" y="10" width="17" height="17" rx="2.5" fill="#ffffff" />
+  <rect x="52" y="10" width="17" height="17" rx="2.5" fill="#ffffff" />
+  <rect x="73" y="10" width="17" height="17" rx="2.5" fill="#ffffff" />
+
+  <!-- Row 1: Left Bar -->
+  <rect x="10" y="31" width="17" height="17" rx="2.5" fill="#ffffff" />
+
+  <!-- Row 2: Left Bar & Right Arm -->
+  <rect x="10" y="52" width="17" height="17" rx="2.5" fill="#ffffff" />
+  <rect x="73" y="52" width="17" height="17" rx="2.5" fill="#ffffff" />
+
+  <!-- Row 3: Bottom Bar -->
+  <rect x="10" y="73" width="17" height="17" rx="2.5" fill="#ffffff" />
+  <rect x="31" y="73" width="17" height="17" rx="2.5" fill="#ffffff" />
+  <rect x="52" y="73" width="17" height="17" rx="2.5" fill="#ffffff" />
+  <rect x="73" y="73" width="17" height="17" rx="2.5" fill="#ffffff" />
+
+  <!-- Center Highlight Slot (Inverted Center Stage VIP Box) -->
+  <rect x="47" y="47" width="27" height="27" rx="3.5" fill="#ffffff" />
+  <rect x="52" y="52" width="17" height="17" rx="2" fill="#000000" />
+  <line x1="60.5" y1="47" x2="60.5" y2="74" stroke="#ffffff" stroke-width="1.5" />
+  <line x1="47" y1="60.5" x2="74" y2="60.5" stroke="#ffffff" stroke-width="1.5" />
+  <rect x="58" y="58" width="5" height="5" fill="#ffffff" />
+</svg>
